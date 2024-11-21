@@ -165,18 +165,13 @@ body{
 
  .testimonial-section{
     background: #eef1f3;
- }
+}
 
 .customer-feedback{
     border: 1px solid #006B6A;
     border-radius: 10px;
     padding: 15px;
 }
-/* .form-custom{
-    border: 1px solid gray;
-    padding: 15px;
-    opacity: 80%;
-} */
 
 .btn-submit{
     background: #5E3BEE;
@@ -203,8 +198,6 @@ body{
     height: 20px;
     padding-left: 10px;
     justify-content: space-between;
-    
-    
 }
 
 
